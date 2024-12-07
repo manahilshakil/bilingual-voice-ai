@@ -1,10 +1,10 @@
-# bilingual-voice-ai
+# Bilingual-voice-ai 🤖
 The AI can understand and respond in both English and Urdu, providing a versatile user experience. 
 The AI can understand and process natural language, enabling more human-like conversations. 
 It can maintain context throughout the conversation, leading to more meaningful and relevant responses. 
 Users can interact through voice commands.
 
-# technology stack 
+# Technology Stack ✨
 - Python: Serves as the core programming language for the entire project.
 - LangChain: Provides the framework for chaining AI models and managing prompts, enabling the seamless flow of conversations.
 - Google Generative AI & Gemini: Powers the AI backend, handling natural language processing and generating responses in both English and Urdu.
